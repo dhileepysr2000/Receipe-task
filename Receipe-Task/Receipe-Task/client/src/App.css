@@ -1,0 +1,21 @@
+*{
+    font-family:Serif, Sans-serif;
+    font-style: normal;
+
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+    border: .1em solid rgb(1, 1, 1);
+    transform: scale(1);
+    padding: .4em;
+}
+.body
+{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: #383838;
+}

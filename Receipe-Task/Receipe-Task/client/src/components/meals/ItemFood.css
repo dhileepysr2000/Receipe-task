@@ -1,0 +1,110 @@
+.form {
+    text-align: right;
+  }
+  
+  .finalbutton {
+    font: inherit;
+    cursor: pointer;
+    
+    border: 1px solid #8a2b06;
+    color: #641e03;
+    padding: 0.25rem 2rem;
+    border-radius: 20px;
+    font-weight: bold;
+    width: 12em;
+  }
+  
+  
+  .finalbutton:hover {
+    background-color: #641e03;
+    border-color: #641e03;
+    color: white;
+  }
+  
+  .finalbutton:active {
+    background-color: #641e03;
+    border-color: #641e03;
+  }
+  
+  .form-button {
+    display: flex;
+  }
+  
+  .addbutton {
+    width: 1.5em;
+    height: 1.5em;
+    color: #641e03;
+    border-radius: 50%;
+    border: 1px solid #641e03;
+    margin-left: 0.3em;
+  }
+  .form {
+    text-align: right;
+  }
+  
+  
+
+  /* mealItemForm.css */
+.form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+  }
+  /* .form-input
+  {
+    border: 2px solid;
+  } */
+  .btn-sub {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #641e03;
+    background-color: #8a2b06;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 100%;
+    border: 1px solid #641e03;
+  }
+  
+  .meal-input {
+    width: 2.5rem;
+    padding-top:.4em;
+    padding-bottom: .4em;
+    padding-left:.9em;
+    font-size: .9rem;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    align-items: center;
+    
+    
+  }
+  
+  .input-container button {
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: #8a2b06;
+    background-color: #fff;
+    border: none;
+    border-radius: 50%;
+    height: 1.7rem;
+    width: 1.7rem;
+    border: 1px solid #8a2b06;
+    cursor: pointer;
+    margin: 0 0.25rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .input-container button:hover {
+    color: #fff;
+    background-color:#8a2b06;
+}
